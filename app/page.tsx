@@ -19,8 +19,8 @@ export default function Page() {
           <p
             className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}
           >
-            <strong>Welcome to Make a soud app!.</strong>
-            Brought to you by Vercel, developed by Greg.
+            <strong>Welcome to Make a soud app!</strong>&nbsp;
+            Brought to you by Vercel, redeveloped by Greg.
           </p>
           <Link
             href="/login"
